@@ -1,0 +1,47 @@
+body{background-color: aqua;
+    font-size: x-large;
+    font-style: italic;
+    color: black;
+}
+td{
+    border: 2px solid black;
+}
+th{
+    color: white  ;
+}
+p{
+    color: #c70d0d;
+}
+option{
+    background-color: yellow;
+    color: black;
+}
+.code{
+    color: red;
+}
+#shubham{
+    background-color: yellow;
+}
+.group{
+    background-color: rgb(0, 0, 0);
+    color: red;
+}
+#sinha{
+    font-style: oblique;
+}
+h1{
+    background-color: yellow;
+}
+h2{
+    background-color: yellow;
+}
+h3{
+    background-color: yellow;
+}
+h4{
+    background-color: yellow;
+}
+h5{
+    background-color: yellow;
+    font-size: x-large;
+}

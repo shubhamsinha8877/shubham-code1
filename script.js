@@ -1,0 +1,1 @@
+alert("welcome to driving school")
